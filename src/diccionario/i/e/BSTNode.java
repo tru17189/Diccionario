@@ -7,7 +7,7 @@ package diccionario.i.e;
 
 /**
  *
- * @author ottoalexander
+ * @author ottoalexander y carlos chew
  */
 public class BSTNode {
     protected String data;

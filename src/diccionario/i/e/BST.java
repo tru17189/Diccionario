@@ -10,7 +10,7 @@ import javafx.scene.Node;
 
 /**
  *
- * @author ottoalexander
+ * @author ottoalexander y carlos chew 
  */
 class BST {
    protected BSTNode root = null;

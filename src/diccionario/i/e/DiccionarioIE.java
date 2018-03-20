@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  *
- * @author ottoalexander
+ * @author ottoalexander y carlos chew
  */
 public class DiccionarioIE {
 
