@@ -27,7 +27,7 @@ public class DiccionarioIE {
 
         String inputFile = args[0];
         BST ingles = new BST(); 
-        BST español = new BST(); 
+        BST espanol = new BST(); 
         
         try
         {
@@ -38,7 +38,7 @@ public class DiccionarioIE {
             while (word != null)
             {
                 ingles.insert(word);
-                español.insert(word);
+                espanol.insert(word);
                 word = input.readLine();
             }
             return;
